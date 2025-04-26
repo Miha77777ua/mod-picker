@@ -13,8 +13,6 @@ const clickFunc = async (ev) => {
       },
     ],
     multiple: false,
-    defaultPath:
-      "C:/Users/User/AppData/Roaming/.tlauncher/legacy/Minecraft/game/home",
   });
 
   let typeOfFile = "enable";
