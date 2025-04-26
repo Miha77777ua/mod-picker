@@ -1,4 +1,4 @@
-# Mod Picker program to toggle Minecraft modes, created with Vue + Tauri 🦀💚
+# Mod Picker program to toggle Minecraft mods, created with Vue + Tauri 🦀💚
 
 ---
 
